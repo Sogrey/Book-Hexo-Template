@@ -2,7 +2,7 @@
   "name": "hexo-site",
   "version": "0.0.0",
   "private": true,
-  "scripts": {
+"scripts": {
     "start": "hexo g & hexo s",
     "deploy": "bash deploy.sh"
   },
@@ -34,9 +34,5 @@
     "markdown-it-regexp": "^0.4.0",
     "markdown-it-sub": "^1.0.0",
     "markdown-it-sup": "^1.0.0"
-  },
-  "devDependencies": {
-    "yargs-parser": ">=5.0.0-security.0",
-    "node-sass": ">=4.13.1"
   }
 }
