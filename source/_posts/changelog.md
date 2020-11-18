@@ -12,7 +12,7 @@ title: Changelog
 **(latest) v3.0.0 - 2020/10/10**
 
 * Change CDN link and fix spectre.css's version to 0.5.9
-* Add Category or Tag name in archive's page (e.g. [Tag - bar](/hexo-theme-book-demo/tags/Bar/))
+* Add Category or Tag name in archive's page (e.g. [Tag - bar](/Book-Hexo-Template/tags/Bar/))
 * **BIG CHANGE AWARENESS**: `home.md` and `menu.md` now put in `source` folder instead of `source/_posts` ([issue#16](https://github.com/kaiiiz/hexo-theme-book/issues/16))
 * Fix accordion max-height issue ([issue#23](https://github.com/kaiiiz/hexo-theme-book/issues/23))
 * Fix menu glittering issue
@@ -31,7 +31,7 @@ title: Changelog
 **v2.0.0 - 2020/01/30**
 
 * Redesign whole theme
-* More powerful menu system, check [Menu Realtime Demo](/hexo-theme-book-demo/demo/menu-realtime/)
+* More powerful menu system, check [Menu Realtime Demo](/Book-Hexo-Template/demo/menu-realtime/)
 
 ---
 

@@ -47,15 +47,21 @@ function unit_invalid() {
 `\
 1. Ordered List
 2. Ordered List
+
 Paragraph
-![image](/hexo-theme-book-demo/favicon.ico)
+
+![image](/Book-Hexo-Template/favicon.ico)
+
 \`\`\`
 code
 \`\`\`
+
 | Tables |      |      |
 | ------ | ---- | ---- |
 | col1   | col2 | col3 |
+
 > Blockquote
+
 ---
 `
     render_demo()
@@ -67,20 +73,31 @@ function basic_collapsed() {
     text_area.value = 
 `\
 \# H1 is separator
+
 \#\# H2
+
 - find nearest header
 - this unordered list will find H2
+
 \#\#\# H3
+
 - find nearest header
 - this unordered list will find H3
+
 \# H1 is separator
+
 \#\#\#\# H4
+
 - find nearest header
 - this unordered list will find H4
+
 \#\#\#\#\# H5
+
 - find nearest header
 - this unordered list will find H5
+
 \#\#\#\#\#\# H6
+
 - find nearest header
 - this unordered list will find H6
 `
@@ -93,10 +110,14 @@ function basic_uncollapsed() {
 `\
 - this unordered list will find nothing
 - so it becomes an uncollapsed menu
+
 \# H1 is separator
+
 - this unordered list will find H1
 - so it becomes an uncollapsed menu
+
 \#\# H2
+
 - this unordered list will find H2
 - so it becomes a collapsed menu
 `
@@ -110,13 +131,19 @@ function tricky_back_top() {
 `\
 - this unordered list will find nothing
 - so it becomes an uncollapsed menu
+
 \# H1 is separator
+
 - this unordered list will find H1
 - so it becomes an uncollapsed menu
+
 \#\# H2
+
 - this unordered list will find H2
 - so it becomes a collapsed menu
+
 > in order to separates two lists, just insert an invalid syntax
+
 - this unordered list will skip H2 and find H1
 - so it becomes an uncollapsed menu
 `

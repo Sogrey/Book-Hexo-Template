@@ -5,27 +5,27 @@
 
 ## hexo-unit-test
 
-* [Categories](https://kaiiiz.github.io/hexo-theme-book-demo/test/hexo-unit-test/categories)
-* [Elements](https://kaiiiz.github.io/hexo-theme-book-demo/test/hexo-unit-test/elements)
-* [Excerpts](https://kaiiiz.github.io/hexo-theme-book-demo/test/hexo-unit-test/excerpts)
-* [Gallery Post](https://kaiiiz.github.io/hexo-theme-book-demo/test/hexo-unit-test/gallery-post)
-* [Hello World](https://kaiiiz.github.io/hexo-theme-book-demo/test/hexo-unit-test/hello-world)
-* [Images](https://kaiiiz.github.io/hexo-theme-book-demo/test/hexo-unit-test/images)
-* [Untitled](https://kaiiiz.github.io/hexo-theme-book-demo/test/hexo-unit-test/link-post-without-title)
-* [Link Post](https://kaiiiz.github.io/hexo-theme-book-demo/test/hexo-unit-test/link-post)
-* [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam justo turpis, tincidunt ac convallis id.](https://kaiiiz.github.io/hexo-theme-book-demo/test/hexo-unit-test/long-title)
-* [Untitled](https://kaiiiz.github.io/hexo-theme-book-demo/test/hexo-unit-test/no-title)
-* [Tag Plugins](https://kaiiiz.github.io/hexo-theme-book-demo/test/hexo-unit-test/tag-plugins)
-* [Tags](https://kaiiiz.github.io/hexo-theme-book-demo/test/hexo-unit-test/tags)
-* [Videos](https://kaiiiz.github.io/hexo-theme-book-demo/test/hexo-unit-test/videos)
-* [中文測試](https://kaiiiz.github.io/hexo-theme-book-demo/test/hexo-unit-test/中文測試)
-* [日本語テスト](https://kaiiiz.github.io/hexo-theme-book-demo/test/hexo-unit-test/日本語テスト)
+* [Categories](/Book-Hexo-Template/test/hexo-unit-test/categories)
+* [Elements](/Book-Hexo-Template/test/hexo-unit-test/elements)
+* [Excerpts](/Book-Hexo-Template/test/hexo-unit-test/excerpts)
+* [Gallery Post](/Book-Hexo-Template/test/hexo-unit-test/gallery-post)
+* [Hello World](/Book-Hexo-Template/test/hexo-unit-test/hello-world)
+* [Images](/Book-Hexo-Template/test/hexo-unit-test/images)
+* [Untitled](/Book-Hexo-Template/test/hexo-unit-test/link-post-without-title)
+* [Link Post](/Book-Hexo-Template/test/hexo-unit-test/link-post)
+* [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam justo turpis, tincidunt ac convallis id.](/Book-Hexo-Template/test/hexo-unit-test/long-title)
+* [Untitled](/Book-Hexo-Template/test/hexo-unit-test/no-title)
+* [Tag Plugins](/Book-Hexo-Template/test/hexo-unit-test/tag-plugins)
+* [Tags](/Book-Hexo-Template/test/hexo-unit-test/tags)
+* [Videos](/Book-Hexo-Template/test/hexo-unit-test/videos)
+* [中文測試](/Book-Hexo-Template/test/hexo-unit-test/中文測試)
+* [日本語テスト](/Book-Hexo-Template/test/hexo-unit-test/日本語テスト)
 
 ## bugfix
 
-* [list test](https://kaiiiz.github.io/hexo-theme-book-demo/test/bugfix/list-test)
-* [blockquote position](https://kaiiiz.github.io/hexo-theme-book-demo/test/bugfix/blockquote-position)
-* [checkbox list](https://kaiiiz.github.io/hexo-theme-book-demo/test/bugfix/checkbox-list)
+* [list test](/Book-Hexo-Template/test/bugfix/list-test)
+* [blockquote position](/Book-Hexo-Template/test/bugfix/blockquote-position)
+* [checkbox list](/Book-Hexo-Template/test/bugfix/checkbox-list)
 
 ## lots of post in submenu 
 
@@ -67,19 +67,19 @@
 
 # Demo
 
-* [Menu Realtime Demo](https://kaiiiz.github.io/hexo-theme-book-demo/demo/menu-realtime)
+* [Menu Realtime Demo](/Book-Hexo-Template/demo/menu-realtime)
 
 ## Render
 
-* [markdown-it demo](https://kaiiiz.github.io/hexo-theme-book-demo/demo/render/markdown-it-demo)
-* [katex demo](https://kaiiiz.github.io/hexo-theme-book-demo/demo/render/katex-demo)
-* [footnotes demo](https://kaiiiz.github.io/hexo-theme-book-demo/demo/render/footnotes-demo)
-* [markdown-container](https://kaiiiz.github.io/hexo-theme-book-demo/demo/render/md-container)
+* [markdown-it demo](/Book-Hexo-Template/demo/render/markdown-it-demo)
+* [katex demo](/Book-Hexo-Template/demo/render/katex-demo)
+* [footnotes demo](/Book-Hexo-Template/demo/render/footnotes-demo)
+* [markdown-container](/Book-Hexo-Template/demo/render/md-container)
 
 ## Lorem Ipsum
 
-* [English](https://kaiiiz.github.io/hexo-theme-book-demo/demo/lorem-ipsum/en-demo)
-* [Japanese](https://kaiiiz.github.io/hexo-theme-book-demo/demo/lorem-ipsum/jp-demo)
-* [Korean](https://kaiiiz.github.io/hexo-theme-book-demo/demo/lorem-ipsum/kr-demo)
-* [Traditional Chinese](https://kaiiiz.github.io/hexo-theme-book-demo/demo/lorem-ipsum/tc-demo)
-* [Simplified Chinese](https://kaiiiz.github.io/hexo-theme-book-demo/demo/lorem-ipsum/sc-demo)
+* [English](/Book-Hexo-Template/demo/lorem-ipsum/en-demo)
+* [Japanese](/Book-Hexo-Template/demo/lorem-ipsum/jp-demo)
+* [Korean](/Book-Hexo-Template/demo/lorem-ipsum/kr-demo)
+* [Traditional Chinese](/Book-Hexo-Template/demo/lorem-ipsum/tc-demo)
+* [Simplified Chinese](/Book-Hexo-Template/demo/lorem-ipsum/sc-demo)
