@@ -22,7 +22,7 @@ git commit -m 'deploy main'
 git push -f https://github.com/Sogrey/Book-Hexo-Template.git main
 
 echo -e "\033[32;40m [2/3] \033[0m Compile..."
-hexo c & hexo g
+hexo clean & hexo g
 
 echo -e "\033[32;40m [3/3] \033[0m Deploy..."
 hexo d
