@@ -7,6 +7,6 @@ hexo d
 ```
 
 ``` yarn
-yarn start # == hexo g & hexo s
+yarn start # hexo g & hexo s
 yarn deploy # bash deploy.sh
 ```
