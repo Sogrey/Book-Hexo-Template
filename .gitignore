@@ -7,4 +7,4 @@ public/
 .deploy*/
 docs/
 
-source/_data/book.yml
+# source/_data/book.yml
