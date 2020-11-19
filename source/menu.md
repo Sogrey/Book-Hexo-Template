@@ -2,7 +2,6 @@
 * [Changelog](/Book-Hexo-Template/changelog)
 
 ---
-
 # Test
 ## hexo-unit-test
 
