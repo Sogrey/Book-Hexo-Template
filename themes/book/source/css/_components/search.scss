@@ -1,0 +1,36 @@
+section.search {
+    position: fixed;
+    top: 3.25rem;
+    left: 1rem;
+    width: 11rem;
+    overflow-x: hidden;
+    overflow-y: auto;
+    font-size: 0.7rem;
+
+    #site_search {
+        overflow: hidden;
+    }
+
+    #local-search-result {
+        max-height: 21rem;
+        overflow-x: hidden;
+        overflow-y: auto;
+
+        .search-result-list {
+            margin: 0;
+            padding: 0;
+
+            li {
+                list-style-type: none;
+
+                a {
+                    font-weight: bold;
+                }
+
+                p.search-result {
+                    max-height: 3rem;
+                }
+            }
+        }
+    }
+}

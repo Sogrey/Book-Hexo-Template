@@ -122,3 +122,8 @@ markdown:
     permalinkClass: header-anchor
     # The symbol used to make the permalink
     permalinkSymbol: '# '
+
+search:
+  path: search.json
+  field: post
+  content: true
