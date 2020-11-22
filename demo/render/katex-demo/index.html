@@ -57,13 +57,19 @@ document.addEventListener('DOMContentLoaded', function () {
     <span>BOOK-DEMO</span>
   </a>
 </div>
-    <div id="menu" class="book-menu hide">
+    <section class="search">
+  <div id="site_search">
+    <input type="text" id="local-search-input" style="width: 200px;" results="0" />
+    <div id="local-search-result"></div>
+  </div>
+</section>
+
+<div id="menu" class="book-menu hide">
   <ul>
 <li><a href="/Book-Hexo-Template">Home</a></li>
 <li><a href="/Book-Hexo-Template/changelog">Changelog</a></li>
 </ul>
 <h1 id="Test">Test</h1>
-<p>单元测试</p>
 <h2 id="hexo-unit-test">hexo-unit-test</h2>
 <ul>
 <li><a href="/Book-Hexo-Template/test/hexo-unit-test/categories">Categories</a></li>
@@ -148,8 +154,10 @@ document.addEventListener('DOMContentLoaded', function () {
 
 </div>
 
-
 <script src="/Book-Hexo-Template/js/book-menu.js"></script>
+
+
+<script src="/Book-Hexo-Template/js/book-search.js"></script>
 
   </div>
 
